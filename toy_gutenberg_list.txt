@@ -2,38 +2,38 @@
  LANGUAGE sr:
 
  FILE FORMAT txt:
-/corpora/proj-gutenberg/gutenberg.readingroo.ms/gutenberg/1/1/2/9/11291/11291-0.txt
-/corpora/proj-gutenberg/gutenberg.readingroo.ms/gutenberg/1/1/2/9/11292/11292-0.txt
-/corpora/proj-gutenberg/gutenberg.readingroo.ms/gutenberg/1/5/0/0/15008/15008-8.txt
+/gutenberg.readingroo.ms/gutenberg/1/1/2/9/11291/11291-0.txt
+/gutenberg.readingroo.ms/gutenberg/1/1/2/9/11292/11292-0.txt
+/gutenberg.readingroo.ms/gutenberg/1/5/0/0/15008/15008-8.txt
 
  FILE FORMAT epub:
-/corpora/proj-gutenberg/gutenberg.readingroo.ms/gutenberg/cache/generated/15791/pg15791.epub
+/gutenberg.readingroo.ms/gutenberg/cache/generated/15791/pg15791.epub
 
  LANGUAGE bgs:
 
  FILE FORMAT txt:
-/corpora/proj-gutenberg/gutenberg.readingroo.ms/gutenberg/2/7/3/2/27326/27326-8.txt
+/gutenberg.readingroo.ms/gutenberg/2/7/3/2/27326/27326-8.txt
 
  LANGUAGE cs:
 
  FILE FORMAT txt:
-/corpora/proj-gutenberg/gutenberg.readingroo.ms/gutenberg/1/3/0/8/13083/13083-8.txt
-/corpora/proj-gutenberg/gutenberg.readingroo.ms/gutenberg/1/6/8/4/16843/16843-0.txt
+/gutenberg.readingroo.ms/gutenberg/1/3/0/8/13083/13083-8.txt
+/gutenberg.readingroo.ms/gutenberg/1/6/8/4/16843/16843-0.txt
 
  LANGUAGE mi:
 
  FILE FORMAT txt:
-/corpora/proj-gutenberg/gutenberg.readingroo.ms/gutenberg/2/2/0/0/22009/22009.txt
-/corpora/proj-gutenberg/gutenberg.readingroo.ms/gutenberg/4/2/2/1/42218/42218-0.txt
+/gutenberg.readingroo.ms/gutenberg/2/2/0/0/22009/22009.txt
+/gutenberg.readingroo.ms/gutenberg/4/2/2/1/42218/42218-0.txt
 
  LANGUAGE grc:
 
  FILE FORMAT txt:
-/corpora/proj-gutenberg/gutenberg.readingroo.ms/gutenberg/4/2/0/5/42053/42053-0.txt
-/corpora/proj-gutenberg/gutenberg.readingroo.ms/gutenberg/4/3/3/8/43383/43383-8.txt
-/corpora/proj-gutenberg/gutenberg.readingroo.ms/gutenberg/5/0/2/1/50212/50212-0.txt
+/gutenberg.readingroo.ms/gutenberg/4/2/0/5/42053/42053-0.txt
+/gutenberg.readingroo.ms/gutenberg/4/3/3/8/43383/43383-8.txt
+/gutenberg.readingroo.ms/gutenberg/5/0/2/1/50212/50212-0.txt
 
  LANGUAGE rmr:
 
  FILE FORMAT txt:
-/corpora/proj-gutenberg/gutenberg.readingroo.ms/gutenberg/2/9/4/7/29470/29470-0.txt
+/gutenberg.readingroo.ms/gutenberg/2/9/4/7/29470/29470-0.txt

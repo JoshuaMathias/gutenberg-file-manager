@@ -256,6 +256,7 @@ class Gutenberg:
             return 1
         return 0
 
+    # Deprecated (and unfinished). The GUTINDEX isn't formatted simply or consistently, so it ended up not being worth the effort. The RDF files should be used instead.
     # Get the information already available in GUTINDEX.ALL, such as the last index.
     def parseIndex(self):
         gutIndexLines = open(os.path.join(self.dir,gutIndexName), 'r').readlines()

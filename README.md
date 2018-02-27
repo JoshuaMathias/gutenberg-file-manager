@@ -36,3 +36,5 @@ There appear to be 10 books that have a pdf folder containing multiple (or at le
 Another funtionality to add is converting epub and pdf files to text automatically.
 
 Note that some files starts with "pg" (those from cache), particularly the epub files. It may be worth normalizing moved or copied file names in the future.
+
+Books with multiple languages are added to each language. Languages for each book are taken from the book's respective rdf file. If no rdf file or language is found for a book, the book's text is parsed to find the languages (indicated by "Language: <language1>, <language2>").
